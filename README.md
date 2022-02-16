@@ -1,8 +1,8 @@
 ## :page_with_curl:To-doList
 
-<P>Bicicletas Feitas a Mãos!!!</P>
-<p>Site feita através do curso Origamid, onde me aprofundei em conceitos como CSS grid layout, HTML semântico e web designer!</p>
-<P>Usei um pouco de JS para algumas funcionalidades e PHP para os formulários</P>
+<P>Lista de Tarefas toda feita em Angular!!!</P>
+<p>App feito através do curso do fera Dener Troquatte, onde me aprofundei em conceitos como diretivas, modulos, componentes, Data Binding...</p>
+<P>Usei um pouco de  typescript para algumas funcionalidades</P>
 <P>100% responsivo!</P>
 <br>
 <P>Link do site: https://app-todo-60866.web.app </P>
